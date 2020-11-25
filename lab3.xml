@@ -7,12 +7,12 @@
    </table>
    <table id="2">
       <number>2</number>
-      <student>sdf</student>
+      <student>Petrov</student>
       <grade>4</grade>
    </table>
    <table id="3">
       <number>3</number>
-      <student>Dastasdfsn</student>
+      <student>Sidorov</student>
       <grade>2</grade>
    </table>
 </catalog>
