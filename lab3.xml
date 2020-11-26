@@ -8,11 +8,11 @@
    <table id="2">
       <number>2</number>
       <student>Petrov</student>
-      <grade>4</grade>
+      <grade>good</grade>
    </table>
    <table id="3">
       <number>3</number>
       <student>Sidorov</student>
-      <grade>2</grade>
+      <grade>not satisfied</grade>
    </table>
 </catalog>
